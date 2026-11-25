@@ -41,4 +41,4 @@ Mobile application designed to educate users about cybersecurity principles and 
 MIT License
 
 ## Contact
-faddistpej.gg@gmail.com
+janoria.maalav@gmail.com
